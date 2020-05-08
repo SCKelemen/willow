@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2000px" height="572px" viewBox="0 0 2000 572" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Willow@0.5x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mozilla_logo-Copy-4" fill="#000000" fill-rule="nonzero">
+            <rect id="Rectangle-path" x="0" y="0" width="2000" height="571.9"></rect>
+        </g>
+        <g id="Mozilla_logo-Copy-3" transform="translate(359.500000, 327.000000) scale(-1, 1) translate(-359.500000, -327.000000) translate(161.000000, 199.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M396.7,0.1 L325,0.1 L325,141 C325,184.3 310.6,200.9 282.3,200.9 C247.9,200.9 234,176.5 234,141.5 L234,54.5 L234,0.1 L162.5,0.1 L162.5,141 C162.5,184.3 148.1,200.9 119.8,200.9 C85.4,200.9 71.5,176.5 71.5,141.5 L71.5,54.5 L71.5,0.1 L5.68434189e-14,0.1 L5.95960781e-14,54.5 L5.95960781e-14,196 L5.68434189e-14,250.4 L71.5,250.4 L71.5,212.7 C86.5,239.3 112.6,255.4 147.5,255.4 C183.6,255.4 216.8,238.2 229.1,201.6 C243,234.9 271.3,255.4 310.7,255.4 C355.6,255.4 396.7,228.2 396.7,168.9 L396.7,54.5 L396.7,0.1 Z" id="Shape"></path>
+        </g>
+        <g id="Mozilla_logo-Copy-6" transform="translate(1537.500000, 327.000000) scale(-1, 1) translate(-1537.500000, -327.000000) translate(1339.000000, 199.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M396.7,0.1 L325,0.1 L325,141 C325,184.3 310.6,200.9 282.3,200.9 C247.9,200.9 234,176.5 234,141.5 L234,54.5 L234,0.1 L162.5,0.1 L162.5,141 C162.5,184.3 148.1,200.9 119.8,200.9 C85.4,200.9 71.5,176.5 71.5,141.5 L71.5,54.5 L71.5,0.1 L0,0.1 L2.75265921e-15,54.5 L2.75265921e-15,196 L0,250.4 L71.5,250.4 L71.5,212.7 C86.5,239.3 112.6,255.4 147.5,255.4 C183.6,255.4 216.8,238.2 229.1,201.6 C243,234.9 271.3,255.4 310.7,255.4 C355.6,255.4 396.7,228.2 396.7,168.9 L396.7,54.5 L396.7,0.1 Z" id="Shape"></path>
+        </g>
+        <g id="Mozilla_logo-Copy-2" transform="translate(614.000000, 72.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M562.3,127.2 C472.4,127.2 428,187.7 428,260.9 C428,340.8 481.3,387.9 558.4,387.9 C638.3,387.9 696,337.4 696,257.5 C696,187.6 652.1,127.2 562.3,127.2 Z M560.6,333 C521.8,333 501.8,299.7 501.8,256.4 C501.8,209.2 524.5,182.1 561.2,182.1 C595,182.1 622.2,204.8 622.2,255.3 C622.2,303 597.8,333 560.6,333 Z" id="Shape"></path>
+            <polygon id="Path" points="446.5 0.7 338.3 382.4 267.8 382.4 376 0.7"></polygon>
+            <polygon id="Path" points="301.2 0.7 193 382.4 122.6 382.4 230.8 0.7"></polygon>
+            <polygon id="Path" points="0.8 132.2 75.7 132.2 75.7 222 0.8 222"></polygon>
+            <polygon id="Path" points="0.8 292.5 75.7 292.5 75.7 382.4 0.8 382.4"></polygon>
+            <polygon id="Path-Copy-2" points="1160 293 1234.9 293 1234.9 382.9 1160 382.9"></polygon>
+        </g>
+    </g>
+</svg>
